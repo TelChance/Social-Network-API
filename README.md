@@ -3,15 +3,18 @@
 ## Description
 This is an API for a social network application where users can react to friend's thoughts, make a friend list, and create thoughts!
 
+## Video
+Will have a video up when some bugs are ironed out
+
 
 ## Install
 In your terminal you are going to want to type:
-npm init
-npm install
+`npm init`
+`npm install`
 
 ## Usage
 In the terminal type in:
-npm start
+`npm start`
 
 ## Questions
 > * [Chance Telford](mailto:chancetelford0018@gmail.com)
